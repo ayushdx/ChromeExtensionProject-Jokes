@@ -1,0 +1,18 @@
+body {
+    width: 290px;
+    height: 250px;
+    background-color: #bde0fe;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    display: flex;
+    margin: auto 10px;
+    font-size: 22px;
+    color: #264653;
+    border-radius: 6px;
+    border: 2px solid #3a86ff;
+    padding: 10px;
+
+}
